@@ -21,8 +21,13 @@ Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jo
 ---
 Repositórios principais:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Organize-Pessoal)](https://github.com/claudianopl/Organize-Pessoal)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Gobarber-GoStack)](https://github.com/claudianopl/Gobarber-GoStack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Organize-Pessoal&theme=radical)](https://github.com/claudianopl/Organize-Pessoal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Gobarber-GoStack&theme=radical)](https://github.com/claudianopl/Gobarber-GoStack)
+
+---
+Principais Linguagens:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudianopl&layout=compact&theme=radical)](https://github.com/claudianop)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudianopl&show_icons=true&theme=radical)
