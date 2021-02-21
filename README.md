@@ -12,7 +12,7 @@
 
 Meu nome é Claudiano Lima sou desenvolvedor full-stack 💚, 20 anos 👶🏻.
 
-Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jogador de videogame 🎮 e sempre em busca de novos conhecimentos e experiencias 📚.
+Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jogador de videogame 🎮 e sempre em busca de novos conhecimentos e experiências 📚.
 
 - 📚 Adoro aprender coisas novas
 - 👽 Sempre aprendendo tecnologias novas
