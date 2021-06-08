@@ -10,7 +10,7 @@
 
 ---
 
-Meu nome é Claudiano Lima sou desenvolvedor full-stack 💚, 20 anos 👶🏻.
+Meu nome é Claudiano Lima sou desenvolvedor full-stack 💚, 21 anos 👶🏻.
 
 Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jogador de videogame 🎮 e sempre em busca de novos conhecimentos e experiências 📚.
 
