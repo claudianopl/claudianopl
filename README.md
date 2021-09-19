@@ -1,15 +1,17 @@
-### 👋 Olá Mundo, eu sou o Claudiano Lima! 🌍
+<img src="./.github/code.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/claudianopl/">
-  <img align="center" alt="LinkdeIN" width="22px" src=".github/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:claudianoplima@hotmail.com">
-  <img align="center" alt="Email" width="22px" src=".github/o-email.svg" />
-</a>
+  <h3>👋 Olá Mundo, eu sou o Claudiano Lima! 🌍</h3>
+  <a target="_blank" href="https://www.linkedin.com/in/claudianopl/">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-16171A?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a target="_blank" href="mailto:claudianoplima@hotmail.com">
+    <img align="center" alt="Email" src="https://img.shields.io/badge/-Outlook-16171A?logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxNDRweCIgaGVpZ2h0PSIxNDRweCI+PHBhdGggZD0iTTMxLjUxLDI0LjY3TDI4LDIyLjE5VjExLjA1aDEyLjVjMi40MiwwLDQuNCwxLjkyLDQuNDksNC4zMkwzMS41MSwyNC42N3oiLz48cGF0aCBkPSJNNDUsMTkuMDF2MTQuNTRjMCwyLjQ4LTIuMDIsNC41LTQuNSw0LjVIMjhWMjUuODZsMi42MywxLjg2QzMwLjg5LDI3LjkxLDMxLjIsMjgsMzEuNSwyOHMwLjYtMC4wOSwwLjg1LTAuMjdMNDUsMTkuMDF6Ii8+PHBhdGggZD0iTTIzLjUsNy41OTN2MzIuODE0YzAsMS4yNzktMS4xODUsMi4yMy0yLjQzNCwxLjk1Mkw3Ljg0OSwzOS40MjJDNi40NzcsMzkuMTE3LDUuNSwzNy45LDUuNSwzNi40OTNWMTEuNTA3IGMwLTEuNDA2LDAuOTc3LTIuNjI0LDIuMzQ5LTIuOTI5bDEzLjIxNy0yLjkzN0MyMi4zMTUsNS4zNjMsMjMuNSw2LjMxNCwyMy41LDcuNTkzeiBNMjAsMjQuNWMwLTQuNDg2LTIuNDE2LTgtNS41LTggUzksMjAuMDE0LDksMjQuNXMyLjQxNiw4LDUuNSw4UzIwLDI4Ljk4NiwyMCwyNC41eiBNMTcsMjQuNWMwLDIuODYyLTEuMzIsNS0yLjUsNXMtMi41LTIuMTM4LTIuNS01czEuMzItNSwyLjUtNSBTMTcsMjEuNjM4LDE3LDI0LjV6Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMyIgZD0iTTIzLjUsNy41OTN2MzIuODE0IGMwLDEuMjc5LTEuMTg1LDIuMjMtMi40MzQsMS45NTJMNy44NDksMzkuNDIyQzYuNDc3LDM5LjExNyw1LjUsMzcuOSw1LjUsMzYuNDkzVjExLjUwN2MwLTEuNDA2LDAuOTc3LTIuNjI0LDIuMzQ5LTIuOTI5IGwxMy4yMTctMi45MzdDMjIuMzE1LDUuMzYzLDIzLjUsNi4zMTQsMjMuNSw3LjU5M3oiLz48L3N2Zz4=&style=for-the-badge" />
+  </a>
 </p>
 
 ---
-
+<p align="left">
 Meu nome é Claudiano Lima sou desenvolvedor full-stack 💚, 21 anos 👶🏻.
 
 Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jogador de videogame 🎮 e sempre em busca de novos conhecimentos e experiências 📚.
@@ -18,18 +20,28 @@ Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jo
 - 👽 Sempre aprendendo tecnologias novas
 - 🚀 Em constante desenvolvimento
 - 💻 Atualmente trabalhando como front-end no projeto ObaPet
+</P>
 
 ---
-Repositórios principais:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Organize-Pessoal&theme=radical)](https://github.com/claudianopl/Organize-Pessoal)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Gobarber-GoStack&theme=radical)](https://github.com/claudianopl/Gobarber-GoStack)
-
----
-Principais Linguagens:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudianopl&layout=compact&theme=radical)](https://github.com/claudianop)
+<p align="left">
+<h2>Minhas Stacks:</h2>
+<img src="https://img.shields.io/badge/-JavaScript-16171A?logo=javascript&style=for-the-badge"> <img src="https://img.shields.io/badge/-TypeScript-16171A?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjI1MDAiIGhlaWdodD0iMjUwMCI+PHN0eWxlPi5zdDB7ZmlsbDojMDA3YWNjfS5zdDF7ZmlsbDojZmZmfTwvc3R5bGU+PHBhdGggY2xhc3M9InN0MCIgZD0iTTAgMjAwVjBoNDAwdjQwMEgwIi8+PHBhdGggY2xhc3M9InN0MSIgZD0iTTg3LjcgMjAwLjdWMjE3aDUydjE0OGgzNi45VjIxN2g1MnYtMTZjMC05IDAtMTYuMy0uNC0xNi41IDAtLjMtMzEuNy0uNC03MC4yLS40bC03MCAuM3YxNi40bC0uMy0uMXpNMzIxLjQgMTg0YzEwLjIgMi40IDE4IDcgMjUgMTQuMyAzLjcgNCA5LjIgMTEgOS42IDEyLjggMCAuNi0xNy4zIDEyLjMtMjcuOCAxOC44LS40LjMtMi0xLjQtMy42LTQtNS4yLTcuNC0xMC41LTEwLjYtMTguOC0xMS4yLTEyLS44LTIwIDUuNS0yMCAxNiAwIDMuMi42IDUgMS44IDcuNiAyLjcgNS41IDcuNyA4LjggMjMuMiAxNS42IDI4LjYgMTIuMyA0MSAyMC40IDQ4LjUgMzIgOC41IDEzIDEwLjQgMzMuNCA0LjcgNDguNy02LjQgMTYuNy0yMiAyOC00NC4zIDMxLjctNyAxLjItMjMgMS0zMC41LS4zLTE2LTMtMzEuMy0xMS00MC43LTIxLjMtMy43LTQtMTAuOC0xNC43LTEwLjQtMTUuNGwzLjgtMi40IDE1LTguNyAxMS4zLTYuNiAyLjYgMy41YzMuMyA1LjIgMTAuNyAxMi4yIDE1IDE0LjYgMTMgNi43IDMwLjQgNS44IDM5LTIgMy43LTMuNCA1LjMtNyA1LjMtMTIgMC00LjYtLjctNi43LTMtMTAuMi0zLjItNC40LTkuNi04LTI3LjYtMTYtMjAuNy04LjgtMjkuNS0xNC40LTM3LjctMjMtNC43LTUuMi05LTEzLjMtMTEtMjAtMS41LTUuOC0yLTIwLS42LTI1LjcgNC4zLTIwIDE5LjQtMzQgNDEtMzggNy0xLjQgMjMuNS0uOCAzMC40IDFsLS4yLjJ6Ii8+PC9zdmc+&style=for-the-badge"> <img src="https://img.shields.io/badge/-ReactJS-16171A?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/-React native-16171A?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/-HTML-16171A?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0ODBweCIgaGVpZ2h0PSI0ODBweCI+PHBhdGggZmlsbD0iI0U2NTEwMCIgZD0iTTQxLDVIN2wzLDM0bDE0LDRsMTQtNEw0MSw1TDQxLDV6Ii8+PHBhdGggZmlsbD0iI0ZGNkQwMCIgZD0iTTI0IDhMMjQgMzkuOSAzNS4yIDM2LjcgMzcuNyA4eiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0yNCwyNXYtNGg4LjZsLTAuNywxMS41TDI0LDM1LjF2LTQuMmw0LjEtMS40bDAuMy00LjVIMjR6IE0zMi45LDE3bDAuMy00SDI0djRIMzIuOXoiLz48cGF0aCBmaWxsPSIjRUVFIiBkPSJNMjQsMzAuOXY0LjJsLTcuOS0yLjZMMTUuNywyN2g0bDAuMiwyLjVMMjQsMzAuOXogTTE5LjEsMTdIMjR2LTRoLTkuMWwwLjcsMTJIMjR2LTRoLTQuNkwxOS4xLDE3eiIvPjwvc3ZnPg==&style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-16171A?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0ODBweCIgaGVpZ2h0PSI0ODBweCI+PHBhdGggZmlsbD0iIzAyNzdCRCIgZD0iTTQxLDVIN2wzLDM0bDE0LDRsMTQtNEw0MSw1TDQxLDV6Ii8+PHBhdGggZmlsbD0iIzAzOUJFNSIgZD0iTTI0IDhMMjQgMzkuOSAzNS4yIDM2LjcgMzcuNyA4eiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0zMy4xIDEzTDI0IDEzIDI0IDE3IDI4LjkgMTcgMjguNiAyMSAyNCAyMSAyNCAyNSAyOC40IDI1IDI4LjEgMjkuNSAyNCAzMC45IDI0IDM1LjEgMzEuOSAzMi41IDMyLjYgMjEgMzIuNiAyMXoiLz48cGF0aCBmaWxsPSIjRUVFIiBkPSJNMjQsMTN2NGgtOC45bC0wLjMtNEgyNHogTTE5LjQsMjFsMC4yLDRIMjR2LTRIMTkuNHogTTE5LjgsMjdoLTRsMC4zLDUuNWw3LjksMi42di00LjJsLTQuMS0xLjRMMTkuOCwyN3oiLz48L3N2Zz4=&style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-16171A?logo=bootstrap&style=for-the-badge"> <img src="https://img.shields.io/badge/-jQuery-16171A?logo=jquery&style=for-the-badge"> <img src="https://img.shields.io/badge/-Nodejs-16171A?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0ODBweCIgaGVpZ2h0PSI0ODBweCI+PHBhdGggZmlsbD0iIzM4OGUzYyIgZD0iTTE3LjIwNCAxOS4xMjJsLTQuOTA3IDIuNzE1QzEyLjExMyAyMS45MzggMTIgMjIuMTI2IDEyIDIyLjMyOXY1LjQzM2MwIC4yMDMuMTEzLjM5LjI5Ny40OTJsNC45MDggMi43MTdjLjE4My4xMDEuNDEuMTAxLjU5MyAwbDQuOTA3LTIuNzE3QzIyLjg4NyAyOC4xNTIgMjMgMjcuOTY1IDIzIDI3Ljc2MnYtNS40MzNjMC0uMjAzLS4xMTMtLjM5LS4yOTctLjQ5MmwtNC45MDYtMi43MTVjLS4wOTItLjA1MS0uMTk1LS4wNzYtLjI5Ny0uMDc2LS4xMDMgMC0uMjA1LjAyNS0uMjk3LjA3Nk00Mi40NTEgMjQuMDEzbC0uODE4LjQ1MmMtLjAzMS4wMTctLjA0OS4wNDgtLjA0OS4wODJ2LjkwNmMwIC4wMzQuMDE5LjA2NS4wNDkuMDgybC44MTguNDUzYy4wMzEuMDE3LjA2OC4wMTcuMDk5IDBsLjgxOC0uNDUzYy4wMy0uMDE3LjA0OS0uMDQ4LjA0OS0uMDgydi0uOTA2YzAtLjAzNC0uMDE5LS4wNjUtLjA1LS4wODJsLS44MTgtLjQ1MkM0Mi41MzQgMjQuMDA0IDQyLjUxNyAyNCA0Mi41IDI0UzQyLjQ2NiAyNC4wMDQgNDIuNDUxIDI0LjAxMyIvPjxwYXRoIGZpbGw9IiMzNzQ3NGYiIGQ9Ik0zNS43NTEsMTMuMzY0bC0yLjM4OS0xLjMzM2MtMC4wNzUtMC4wNDItMC4xNjctMC4wNDEtMC4yNDEsMC4wMDMgYy0wLjA3NCwwLjA0NC0wLjEyLDAuMTIzLTAuMTIsMC4yMDlMMzMsMjAuMjk1bC0yLjIwMy0xLjIxOUMzMC43MDUsMTkuMDI1LDMwLjYwMiwxOSwzMC41LDE5Yy0wLjEwMiwwLTAuMjA1LDAuMDI1LTAuMjk3LDAuMDc2IGgwLjAwMWwtNC45MDcsMi43MTVDMjUuMTEzLDIxLjg5MiwyNSwyMi4wOCwyNSwyMi4yODJ2NS40MzNjMCwwLjIwMywwLjExMywwLjM5LDAuMjk3LDAuNDkybDQuOTA4LDIuNzE3IGMwLjE4MywwLjEwMSwwLjQxLDAuMTAxLDAuNTkzLDBsNC45MDctMi43MTdDMzUuODg3LDI4LjEwNiwzNiwyNy45MTgsMzYsMjcuNzE1VjEzLjc4OEMzNiwxMy42MTIsMzUuOTA0LDEzLjQ1LDM1Ljc1MSwxMy4zNjR6IE0zMi44NjYsMjYuNDU4bC0yLjIzLDEuMjM1Yy0wLjA4MywwLjA0Ni0wLjE4NiwwLjA0Ni0wLjI2OSwwbC0yLjIzMS0xLjIzNUMyOC4wNTEsMjYuNDEyLDI4LDI2LjMyNiwyOCwyNi4yMzR2LTIuNDcgYzAtMC4wOTIsMC4wNTEtMC4xNzcsMC4xMzUtMC4yMjRsMi4yMzEtMS4yMzRoLTAuMDAxYzAuMDQyLTAuMDIzLDAuMDg4LTAuMDM0LDAuMTM1LTAuMDM0YzAuMDQ3LDAsMC4wOTMsMC4wMTIsMC4xMzUsMC4wMzQgbDIuMjMsMS4yMzRDMzIuOTQ5LDIzLjU4NywzMywyMy42NzMsMzMsMjMuNzY1djIuNDdDMzMsMjYuMzI2LDMyLjk0OSwyNi40MTIsMzIuODY2LDI2LjQ1OHoiLz48cGF0aCBmaWxsPSIjMmU3ZDMyIiBkPSJNMTcuMjA0LDE5LjEyMkwxMiwyNy43NjJjMCwwLjIwMywwLjExMywwLjM5LDAuMjk3LDAuNDkybDQuOTA4LDIuNzE3IGMwLjE4MywwLjEwMSwwLjQxLDAuMTAxLDAuNTkzLDBMMjMsMjIuMzI5YzAtMC4yMDMtMC4xMTMtMC4zOS0wLjI5Ny0wLjQ5MmwtNC45MDYtMi43MTVjLTAuMDkyLTAuMDUxLTAuMTk1LTAuMDc2LTAuMjk3LTAuMDc2IGMtMC4xMDMsMC0wLjIwNSwwLjAyNS0wLjI5NywwLjA3NiIvPjxwYXRoIGZpbGw9IiM0Y2FmNTAiIGQ9Ik0xNy4yMDQsMTkuMTIybC00LjkwNywyLjcxNUMxMi4xMTMsMjEuOTM4LDEyLDIyLjEyNiwxMiwyMi4zMjlsNS4yMDQsOC42NDIgYzAuMTgzLDAuMTAxLDAuNDEsMC4xMDEsMC41OTMsMGw0LjkwNy0yLjcxN0MyMi44ODcsMjguMTUyLDIzLDI3Ljk2NSwyMywyNy43NjJsLTUuMjAzLTguNjRjLTAuMDkyLTAuMDUxLTAuMTk1LTAuMDc2LTAuMjk3LTAuMDc2IGMtMC4xMDMsMC0wLjIwNSwwLjAyNS0wLjI5NywwLjA3NiIvPjxwYXRoIGZpbGw9IiMzNzQ3NGYiIGQ9Ik00Ny43MDMgMjEuNzkxbC00LjkwNi0yLjcxNUM0Mi43MDUgMTkuMDI1IDQyLjYwMiAxOSA0Mi41IDE5Yy0uMTAyIDAtLjIwNS4wMjUtLjI5Ny4wNzZoLjAwMWwtNC45MDcgMi43MTVDMzcuMTE0IDIxLjg5MiAzNyAyMi4wODQgMzcgMjIuMjk0djUuNDExYzAgLjIwOS4xMTQuNDAyLjI5Ny41MDNsNC45MDggMi43MTdjLjE4NC4xMDIuNDA5LjEwMi41OTMgMGwyLjI2My0xLjI1M2MuMjA3LS4xMTUuMjA2LS40MTItLjAwMi0uNTI2bC00LjkyNC0yLjY4N0M0MC4wNTIgMjYuNDEyIDQwIDI2LjMyNSA0MCAyNi4yMzF2LTIuNDY2YzAtLjA5Mi4wNS0uMTc3LjEzLS4yMjFsMi4yMzUtMS4yMzZoLS4wMDFjLjA0Mi0uMDIzLjA4OC0uMDM0LjEzNS0uMDM0LjA0NyAwIC4wOTMuMDEyLjEzNS4wMzRsMi4yMzUgMS4yMzdjLjA4LjA0NC4xMy4xMjkuMTMuMjIxdjIuMDEyYzAgLjA4Ni4wNDYuMTY2LjEyMS4yMDkuMDc1LjA0Mi4xNjcuMDQyLjI0Mi0uMDAxbDIuMzk4LTEuMzkzYy4xNDgtLjA4Ni4yNC0uMjQ1LjI0LS40MTd2LTEuODhDNDggMjIuMDg1IDQ3Ljg4NiAyMS44OTIgNDcuNzAzIDIxLjc5MXpNMTAuNzAzIDIxLjc5MWwtNC45MDYtMi43MTVDNS43MDUgMTkuMDI1IDUuNjAyIDE5IDUuNSAxOWMtLjEwMiAwLS4yMDUuMDI1LS4yOTcuMDc2aC4wMDFsLTQuOTA3IDIuNzE1Qy4xMTQgMjEuODkyIDAgMjIuMDg0IDAgMjIuMjk0djcuNDY1YzAgLjA4Ni4wNDYuMTY2LjEyMS4yMDkuMDc1LjA0Mi4xNjcuMDQyLjI0Mi0uMDAxbDIuMzk4LTEuMzkzQzIuOTA5IDI4LjQ4OCAzIDI4LjMyOSAzIDI4LjE1N3YtNC4zOTNjMC0uMDkyLjA1LS4xNzcuMTMtLjIyMWwyLjIzNS0xLjIzNkg1LjM2NWMuMDQyLS4wMjMuMDg4LS4wMzQuMTM1LS4wMzQuMDQ3IDAgLjA5My4wMTIuMTM1LjAzNGwyLjIzNSAxLjIzN0M3Ljk1IDIzLjU4OCA4IDIzLjY3MyA4IDIzLjc2NXY0LjM5M2MwIC4xNzIuMDkxLjMzMS4yNC40MTdsMi4zOTggMS4zOTNjLjA3NS4wNDMuMTY3LjA0My4yNDIuMDAxQzEwLjk1NCAyOS45MjUgMTEgMjkuODQ1IDExIDI5Ljc1OXYtNy40NjRDMTEgMjIuMDg1IDEwLjg4NiAyMS44OTIgMTAuNzAzIDIxLjc5MXoiLz48L3N2Zz4=&style=for-the-badge"> <img src="https://img.shields.io/badge/-PHP-16171A?logo=php&style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-16171A?logo=python&style=for-the-badge"> <img src="https://img.shields.io/badge/-MYSQL-16171A?logo=mysql&style=for-the-badge"> <img src="https://img.shields.io/badge/-postgresql-16171A?logo=postgresql&style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-16171A?logo=git&style=for-the-badge">
+</p>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudianopl&show_icons=true&theme=radical)
+## Repositórios principais:
+<p align="left">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Organize-Pessoal&text_color=ffffff&bg_color=16171A&icon_color=567EF6&title_color=ffffff&locale=pt-br)](https://github.com/claudianopl/Organize-Pessoal)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudianopl&repo=Gobarber-GoStack&text_color=ffffff&bg_color=16171A&icon_color=567EF6&title_color=ffffff&locale=pt-br)](https://github.com/claudianopl/Gobarber-GoStack)
+
+</p>
+
+---
+<p align="left">
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudianopl&layout=compact&show_icons=true&text_color=ffffff&bg_color=16171A&title_color=ffffff&locale=pt-br&count_private=true)](https://github.com/claudianop) -->
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudianopl&show_icons=true&text_color=ffffff&bg_color=16171A&icon_color=567EF6&title_color=ffffff&locale=pt-br&custom_title=Estat%C3%ADstica%20Claudiano%20Lima&count_private=true)
+</p>
+
 
