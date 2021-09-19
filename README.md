@@ -12,14 +12,14 @@
 
 
 <p align="left">
-Meu nome é Claudiano Lima sou desenvolvedor full-stack 💚, 21 anos 👶🏻.
+Meu nome é Claudiano Lima sou desenvolvedor front-end, tenho vontade de se tornar um desenvolvedor full-stack 💚, porém, especialista em front-end, 21 anos 👶🏻.
 
 Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jogador de videogame 🎮 e sempre em busca de novos conhecimentos e experiências 📚.
 
 - 📚 Adoro aprender coisas novas
 - 👽 Sempre aprendendo tecnologias novas
 - 🚀 Em constante desenvolvimento
-- 💻 Atualmente trabalhando como front-end no projeto ObaPet
+- 💻 Atualmente trabalhando como front-end em um marketplace chamado ObaPet
 </P>
 
 
