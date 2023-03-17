@@ -12,7 +12,7 @@
 
 
 <p align="left">
-Meu nome é Claudiano Lima sou desenvolvedor front-end, tenho vontade de se tornar um desenvolvedor full-stack 💚, porém, especialista em front-end, 21 anos 👶🏻.
+Meu nome é Claudiano e sou desenvolvedor front-end, com experiência nas stacks React e Next.js, utilizando SSR, SSG e API Routes, além de ter conhecimentos em FaunaDB, TypeScript, JavaScript, React-Query, Git, Chakra, Material UI e outras ferramentas do universo do desenvolvimento.
 
 Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jogador de videogame 🎮 e sempre em busca de novos conhecimentos e experiências 📚.
 
