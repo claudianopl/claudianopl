@@ -19,7 +19,7 @@ Um amante por esportes 🏐, apaixonado por tecnologia 👩‍💻, um ótimo jo
 - 📚 Adoro aprender coisas novas
 - 👽 Sempre aprendendo tecnologias novas
 - 🚀 Em constante desenvolvimento
-- 💻 Atualmente trabalhando como front-end em um marketplace chamado ObaPet
+- 💻 Atualmente trabalhando como front-end na Queima Diária na squad de pagamento
 </P>
 
 
